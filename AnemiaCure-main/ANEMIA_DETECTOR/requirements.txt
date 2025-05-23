@@ -1,0 +1,8 @@
+Flask
+numpy
+scikit-learn
+werkzeug
+sqlitecloud
+flask-mail 
+itsdangerous
+regex
