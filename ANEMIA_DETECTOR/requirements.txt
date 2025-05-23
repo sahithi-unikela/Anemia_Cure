@@ -1,5 +1,0 @@
-Flask
-numpy
-scikit-learn
-werkzeug
-sqlitecloud
