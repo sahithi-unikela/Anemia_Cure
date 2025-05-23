@@ -5,7 +5,7 @@ import os
 # It’s safer to put your URL in an env var, e.g. SQLITE_CLOUD_URL
 CLOUD_URL = os.getenv(
     "SQLITE_CLOUD_URL",
-    "sqlitecloud://co6leh6ahz.g5.sqlite.cloud:8860/Users?apikey=Z8SHQNW04obXKXDaHuLDDbWQCZ5KEwLJq0pyQajbdRg"
+    "sqlitecloud://cwjtz4zfnz.g2.sqlite.cloud:8860/Anemia-data?apikey=M0OJ3xbTzB7HbBy7CgVAPfaQXC0fAHwCBIOG9XSbeag"
 )
 
 def get_conn():
